@@ -16,8 +16,23 @@ git branch
 git branch <branch name>
 git checkout <branch name>
 
-to get code from "tailblock"
+>>>>>>>>>> to get code from "tailblock"
 
-for cdn link
+>>>>>>>>>>>>>>> for cdn link
 
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+>>>>>>>>>>>>>> Class na suggestion mate 
+
+ctrl + specebar 
+
+>>>>>>>>>>>>>>> to taiwind suggestion 
+
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
