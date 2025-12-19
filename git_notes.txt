@@ -45,6 +45,7 @@ yes aapo
 
 >>>>>>>>>>>>>> 1 new folder banavu and aama index.html file create karvi
 tailwind css ni proper website ma jy tailwind cli pr jay npm vali line copy kari
+
 vs code ma aa folder open kari terminal ma jay paste karvi aatle 3 file banse
 package.json
 package-lock.json
@@ -67,17 +68,10 @@ pachi json file ma
 aa link official tailwind css ni website pr thi levani chhe 
 
 aa index.html file nee run karavi 
-npm run start lakhvanu 
+
+>>>>>>>>>>>npm run start lakhvanu 
 
 1 new flie create thase output.css aa file delete thava devani ny
-
-
->>>>>>>>>>>>>> branch create karvi 
-
-ketli branch chhe te jova mate --- git branch
-new branch create ----------  git branch <Branch Name>
-check karva mate -----------  git branch
-pachi 1 main name ni branch hse
 
  >>>>>>>>>>>>>>  new repo create tailwind-cli readme.md ny rakhvanu aama aa link hse 
 git remote add origin https://github.com/dhruvipatel0517/tailwind-cli.git
@@ -90,3 +84,45 @@ successfully thay jay pachi
 
 git commit -m "msg"
 
+
+>>>>>>>>>>>>>> branch create karvi 
+
+ketli branch chhe te jova mate --- git branch
+new branch create ----------  git branch <Branch Name>
+check karva mate -----------  git branch
+pachi 1 main name ni branch hse
+
+>>>>>>>>>>>> development name ni branch banavani 
+git branch development 
+git branch (show branches list)
+git checkout <development>  (branch shift karva mate )
+
+aa folder ma readme.md new file create kari git na all command lakhva 
+pachi 
+git add . karvi 
+after git commit -m "msg"
+git origin push development(aa branch nu name chhe) 
+success thay jay to last ma development -> development aavi jse 
+
+last ma development ni uper link aavse tene CTRL + CLICK 
+
+Merge pull request mate :   
+
+aatle new tab ma open thase green buuton compare & pull request click the button 
+2 var create pull request 
+compare & mearge pull
+total 3 button green color na aavse 
+
+pachi purplr color thase
+
+change repo name 
+setting ma repo name rename with .github.io 
+
+left side page ma deploy from a brance
+
+pachi main hoy tya development kari save karvanu 
+pachi action pr javanu
+
+action pr je aavyu hoy te ni uper click karvanu
+
+wait kari 1 link aavse teni pr click kari website run thase 
