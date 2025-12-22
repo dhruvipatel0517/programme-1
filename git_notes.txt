@@ -128,3 +128,8 @@ action pr je aavyu hoy te ni uper click karvanu
 wait kari 1 link aavse teni pr click kari website run thase 
 
 Search https://www.awwwards.com/websites/sites_of_the_year/ and show
+
+website ma kai technolkigy use thay tene check karva mate 
+crome extensention ma jay ne search karvu
+1. wappalyzer (W valo logo hse)
+2. website technology 
